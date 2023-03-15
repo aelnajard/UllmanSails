@@ -280,7 +280,7 @@
   for (let i = 0; i < SeeMoreNews.length; i++) {
     SeeMoreNews[i].addEventListener("click", function(){
 
-        window.open("../ContactUs/index.php", "_self");
+        window.open("../News/News.php", "_self");
     })
   }
 
