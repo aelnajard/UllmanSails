@@ -163,7 +163,7 @@
             <td>Opening Hours</td>
             <td>08:00 - 17:00</td>
             <td>08:30 - 17:30</td>
-            <td>Hola 6</td>
+            <td></td>
 
           </tr>
 
