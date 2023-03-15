@@ -33,7 +33,7 @@
 
 <div class="contentSections">
 <h1>Ullman Sails support RC1000</h1><br>
-<img src="../../News/Content/1.UllmanSailssupportRC1000/1.RC1000-Sunfast-3200-Sun-Fire-beating-to-windward-in-Plymouth-Sound-during-the-Port-of-Plymouth-Sailing-Association-Yacht-Regatta.jpg" alt="">
+<img src="../News/Content/1.UllmanSailssupportRC1000/1.RC1000-Sunfast-3200-Sun-Fire-beating-to-windward-in-Plymouth-Sound-during-the-Port-of-Plymouth-Sailing-Association-Yacht-Regatta.jpg" alt="">
 <h5>PGC Photography</h5><br>
 <p>RC1000 race series is a brand new racing class based in Plymouth and the south west,
   aiming for close performance across the whole fleet. The organisers are hoping to
@@ -42,7 +42,7 @@
   the Mayflower 400 trophy. There are 10 boats already committed to racing and more are
   always welcome. Get in touch with our own Jon Pegg for advice on if your boat can be
   accommodated in the RC1000 banding.</p><br>
-<img src="../../News/Content/1.UllmanSailssupportRC1000/2.RC1000-J105-Jamala-upwind-beating-hard-in-Plymouth-Sound-during-the-Port-of-Plymouth-Sailing-Association-Yacht-Regatta.jpg" alt="">
+<img src="../News/Content/1.UllmanSailssupportRC1000/2.RC1000-J105-Jamala-upwind-beating-hard-in-Plymouth-Sound-during-the-Port-of-Plymouth-Sailing-Association-Yacht-Regatta.jpg" alt="">
 <h5>PGC Photography</h5><br>
 <p>Each race weekend will take place across two days, with several races on each day.
   Both days will be rounded off with a social event and, of course, prizes on the Sunday.
@@ -55,7 +55,7 @@
 <h1>Ullman Sails Inshore & Offshore Race Series</h1><br>
 <p>Ullman Sails are pleased to announce the dates for our inshore and offshore points races series for 2020.</p>
 <br>
-<img src="../../News/Content/2.UllmanSailsInshore/1.J105upwind2.jpg" alt="">
+<img src="../News/Content/2.UllmanSailsInshore/1.J105upwind2.jpg" alt="">
 <h5>PGC Photography</h5><br>
 <p>We are getting ourselves organised for a whole new year of getting out on the
    water and having fun. The Ullman race series are open to racers, cruisers and
@@ -75,7 +75,7 @@
   <li>PYC Salcombe to Plymouth – 06/09/20</li>
 </ul>
 <br>
-<img src="../../News/Content/2.UllmanSailsInshore/2.34.7fiberpathLarge.jpg" alt="">
+<img src="../News/Content/2.UllmanSailsInshore/2.34.7fiberpathLarge.jpg" alt="">
 <h5>PGC Photography</h5><br>
 <h1>Ullman Sails Offshore Series</h1><br>
 <p>Our offshore series will be held across 4 events from May to August.</p><br>
@@ -93,7 +93,7 @@
 <div class="contentSections">
   <h1>Victory in the Quarter Ton Cup</h1>
   <br>
-  <img src="../../News/Content/3.VictoryintheQuarterTonCup/1.quarterton1107x594.jpeg" alt="">
+  <img src="../News/Content/3.VictoryintheQuarterTonCup/1.quarterton1107x594.jpeg" alt="">
   <br><br>
   <p>Ullman Sails customer John Santy recently cruised to victory at the Quarter
     Ton Cup. Read his amusing account of how he and the team got there:</p>
@@ -115,7 +115,7 @@
      <br>
   <p>After one big boozy Thursday steak night, “OK, let’s do it!” went the roar.</p>
   <br>
-  <img src="../../News/Content/3.VictoryintheQuarterTonCup/2.quartertoncup.jpg" alt="">
+  <img src="../News/Content/3.VictoryintheQuarterTonCup/2.quartertoncup.jpg" alt="">
   <br><br>
   <h1>New Hope for the Quarter Ton Cup</h1>
   <br><br>
@@ -169,7 +169,7 @@
     <p>Is it, will it be, could it be the one? Our minds dared to dream as the
        Quarter Ton cup was almost upon us.</p>
     <br>
-    <img src="../../News/Content/3.VictoryintheQuarterTonCup/3.quartertonboatullmansails.jpeg" alt="">
+    <img src="../News/Content/3.VictoryintheQuarterTonCup/3.quartertonboatullmansails.jpeg" alt="">
     <br><br>
     <h1>The Quarter Ton Cup Dawns</h1>
     <br>
@@ -184,7 +184,7 @@
       turn out and all the usual faces. The nerves had started. The rest, as they
       say, is now in folk law and written large in history for evermore.</p>
     <br>
-    <img src="../../News/Content/3.VictoryintheQuarterTonCup/4.quartertonullmansails.jpg" alt="">
+    <img src="../News/Content/3.VictoryintheQuarterTonCup/4.quartertonullmansails.jpg" alt="">
     <br><br>
     <p>Team Hamble, after 10 years, had finally delivered that which was long
       overdue. Protis wins the <a href="https://www.quartertoncup.org">2019 Quarter
@@ -195,7 +195,7 @@
     <p>It was pure joy to sit and watch our great leader head off across the
       horizon to the unbeatable position of a Quarter Ton cup win with a race to spare!</p>
     <br>
-    <img src="../../News/Content/3.VictoryintheQuarterTonCup/5.quartertonboat.jpeg" alt="">
+    <img src="../News/Content/3.VictoryintheQuarterTonCup/5.quartertonboat.jpeg" alt="">
     <br><br>
     <h1>What’s Next For The Boat?</h1>
     <br>
@@ -234,7 +234,7 @@
       will it be, could it be the one?
     Yes, it is, yes, it will be, YES, it’s the one!</p>
     <br>
-    <img src="../../News/Content/3.VictoryintheQuarterTonCup/6.quartertoncupullmansails.jpg" alt="">
+    <img src="../News/Content/3.VictoryintheQuarterTonCup/6.quartertoncupullmansails.jpg" alt="">
     <br>
 
 </div>
@@ -243,7 +243,7 @@
 <div class="contentSections">
   <h1>Loft Updates</h1>
   <br>
-  <img src="../../News/Content/4.LoftUpdates/1.LoftDevelopments2.jpeg" alt="">
+  <img src="../News/Content/4.LoftUpdates/1.LoftDevelopments2.jpeg" alt="">
   <br><br>
   <p>2018 has seen the loft in Plymouth grow in all aspects – we are now sporting
      over 115 square meters of floor space to build, service and repair sails.</p>
@@ -260,7 +260,7 @@
 <div class="contentSections">
   <h1>Customer Updates</h1>
   <br>
-  <img src="../../News/Content/5.CustomerUpdates/1.Customer-Updates.jpeg" alt="">
+  <img src="../News/Content/5.CustomerUpdates/1.Customer-Updates.jpeg" alt="">
   <br><br>
   <p>This year loft regular Mike Nuttall managed a series win in the Plym Yacht
     Club Friday night series and an overall class win at Fowey Regatta with a
@@ -285,7 +285,7 @@
 <div class="contentSections">
   <h1>Quarter Tonner Developments</h1>
   <br>
-  <img src="../../News/Content/6.QuarterTonnerDevelopments/1.Developments.jpeg" alt="">
+  <img src="../News/Content/6.QuarterTonnerDevelopments/1.Developments.jpeg" alt="">
   <br><br>
   <p>We’ve been working particularly hard this season in the highly competitive
     Quarter Tonner fleet. At the start of the year we provided a full suit of
@@ -308,7 +308,7 @@
 <div class="contentSections">
   <h1>London Boat Show</h1>
   <br>
-  <img src="../../News/Content/7.LondonBoatShow/1.Boatshow-2.jpeg" alt="">
+  <img src="../News/Content/7.LondonBoatShow/1.Boatshow-2.jpeg" alt="">
   <br><br>
   <p>Here at Ullman Sails GBR we used to love the London Boat Show. It was a
     fantastic opportunity to catch up with our customers in the New Year, and
@@ -330,7 +330,7 @@
        the world as a first mate, and his love and passion for sailing, made him a great
        candidate to join the Plymouth team.</p>
     <br>
-    <img src="../../News/Content/8.WelcomeTheNewestMemberOfOurTeam/1.Charlie.jpeg" alt="">
+    <img src="../News/Content/8.WelcomeTheNewestMemberOfOurTeam/1.Charlie.jpeg" alt="">
     <br><br>
     <p>Charlie has been working with Nathan and Vicky on sail repairs.
       They are both more than happy to pass on their years of experience.
@@ -351,7 +351,7 @@
       delighted with the service and product they have received from both Penarth
       Covers and Ullman Sails.</p>
     <br>
-    <img src="../../News/Content/9.PenarthCruisingCodeZero/CodeZero.jpeg" alt="">
+    <img src="../News/Content/9.PenarthCruisingCodeZero/CodeZero.jpeg" alt="">
     <br><br>
     <p>This sail allows the owner to use his boat in lighter airs and keep the
       engine off for longer! The Code Zero has previously been viewed as a
@@ -370,19 +370,19 @@
     <br>
     <p>In the Ostar Race In 2017, Mervyn Wheatley ﻿was hit by a once in a life time storm.</p>
     <br>
-    <img src="../../News/Content/10.HitByaOnceinaLifeTimeStorm/1.Finishing1.jpeg" alt="">
+    <img src="../News/Content/10.HitByaOnceinaLifeTimeStorm/1.Finishing1.jpeg" alt="">
     <br><br>
     <p>His boat was hit by a huge wave which knocked her down. The boat took on
       a lot of water and Mervyn activated his EPIRB. Luckily,
       he was picked up by the Queen Mary 2, leaving his beloved boat to sink in the Atlantic.</p>
     <br>
-    <img src="../../News/Content/10.HitByaOnceinaLifeTimeStorm/2.Finishing2e1522749846804.jpeg" alt="">
+    <img src="../News/Content/10.HitByaOnceinaLifeTimeStorm/2.Finishing2e1522749846804.jpeg" alt="">
     <br><br>
     <p>He has since got himself a very nice Bowman 40, and this year he wanted
       to replace the yankee and staysail. For a customer like this we know that
       the finishing on the sail is key, which is why we used our Endurance series.</p>
     <br>
-    <img src="../../News/Content/10.HitByaOnceinaLifeTimeStorm/3.Finishing3e1522749797955.jpeg" alt="">
+    <img src="../News/Content/10.HitByaOnceinaLifeTimeStorm/3.Finishing3e1522749797955.jpeg" alt="">
     <br><br>
     <p>Our Endurance series (or ‘Mervyn spec’ as we now call it!) is perfect for
       demanding uses like this. Dyneema webbing is used, which is covered with
@@ -390,7 +390,7 @@
       corners and the leech lines have Aluminium cleats with pockets to help keep
       them protected.</p>
     <br>
-    <img src="../../News/Content/10.HitByaOnceinaLifeTimeStorm/4.Finishing4e1522749895833.jpeg" alt="">
+    <img src="../News/Content/10.HitByaOnceinaLifeTimeStorm/4.Finishing4e1522749895833.jpeg" alt="">
     <br><br>
     <p>These enhancements make the sail stronger and add more miles and years to the life of the sails. We are very proud of our finishing and, of course, pleased that Mervyn is too!</p>
   </div>
