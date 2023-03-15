@@ -78,12 +78,12 @@
 <div class="scrollLeftPanel">
 
 <div id="goHome" class="containerItemsLeftPanelGoHome">
-  <img class="itemsLeftPanelGoHomeIcon" src="../../News/LeftPanel/Images/LeftArrow.png" alt="">
+  <img class="itemsLeftPanelGoHomeIcon" src="../News/LeftPanel/Images/LeftArrow.png" alt="">
   <h4 class="itemsLeftPanelGoHome">  Home</h4>
 </div>
 
-<!--  <h2><a href="../../Home/"><</a></h2>-->
-  <img class="logoNews" src="../../News/LeftPanel/Images/LogoUS.png" alt="">
+<!--  <h2><a href="../Home/"><</a></h2>-->
+  <img class="logoNews" src="../News/LeftPanel/Images/LogoUS.png" alt="">
   <div class="contentLeftPanel">
     <h4 class="itemsLeftPanel">Ullman Sails support RC1000</h4>
     <h4 class="itemsLeftPanel">Ullman Sails Inshore & Offshore Race Series</h4>
@@ -102,7 +102,7 @@
     goHome = document.getElementById('goHome');
 
     goHome.addEventListener("click", function(){
-      window.open("../../Home/", "_self");
+      window.open("../Home/", "_self");
     })
 
   </script>
