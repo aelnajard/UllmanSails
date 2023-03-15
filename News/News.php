@@ -171,7 +171,7 @@
     }
     </style>
 
-    <img id="IconMenuNews" class="IconMenuNews" src="https://smartbusinesscenter.net/UllmanSails/News/Images/Menu.png" alt="">
+    <img id="IconMenuNews" class="IconMenuNews" src="../News/Images/Menu.png" alt="">
 
     <section id="leftPanel" class="leftPanel">
       <style media="screen">
@@ -195,7 +195,7 @@
       </style>
 
 
-      <img id="IconCloseMenuNews" class="IconCloseMenuNews" src="https://smartbusinesscenter.net/UllmanSails/News/LeftPanel/Images/close.png" alt="">
+      <img id="IconCloseMenuNews" class="IconCloseMenuNews" src="../News/LeftPanel/Images/close.png" alt="">
       <?php  include "LeftPanel/LeftPanel.php" ?>
 
 
