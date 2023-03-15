@@ -6,7 +6,7 @@
   }
   .menu{
     position: fixed;
-    top: 50px;
+    top: 0px;
     left: 0px;
     width: 120vw;
     height: 70px;
@@ -73,25 +73,33 @@
     display: none;
   }
   .menuMobile{
-    position: relative;
+    position: fixed;
     width: 100%;
     height: 80vh;
-    background-color: rgba(0, 0, 255, .5);
     z-index: 9;
-    top: 120px;
   }
   .textMenuContainerMobile{
-    padding: 3px;
-    border-top: 1px solid rgba(255, 0, 0, .3);
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    top: 70px;
   }
   .textMenuContainerMobile h3{
-    background-color: rgba(255, 0, 0, .4);
+    background-color: rgba(255, 0, 0, .1);
     padding: 19px 10px;
     color: white;
     font-size: 2em;
     font-weight: 200;
     text-align: center;
     cursor: pointer;
+  }
+  .textMenuContainerMobile h3:nth-child(even){
+    background-color: rgba(255, 0, 0, .1);
+
+  }
+  .textMenuContainerMobile h3:nth-child(odd){
+    background-color: rgba(255, 0, 0, .2);
+
   }
   .textMenuContainerMobile h3:hover{
     background-color: rgba(255, 0, 0, .5);
@@ -168,7 +176,7 @@
   }
    @media  (orientation: landscape) {
     .textMenuContainerMobile{
-      height: 60vh;
+      height: 100vh;
       overflow-y: scroll;
     }
    }
@@ -274,13 +282,12 @@
   <div id="mobileMenu" class="menuMobile">
     <div class="textMenuContainerMobile">
       <h3>Home</h3>
-      <h3>Sail Types</h3>
+    <!--  <h3>Sail Types</h3> -->
       <h3>Sail Care</h3>
       <h3>Services</h3>
       <h3>About Us</h3>
       <h3>News</h3>
       <h3>Contact Us</h3>
-      <h3>Shop</h3>
     </div>
   </div>
 
@@ -294,20 +301,20 @@ window.addEventListener("scroll", function() {
     var menuMobile = document.getElementsByClassName("menuMobile")[0];
     var ulmanSailsImg = document.getElementById("ulmanSailsImg");
 
-    if (window.scrollY > ( elementTarget.offsetHeight)) {
+  /*  if (window.scrollY > ( elementTarget.offsetHeight)) {
         menu.style.top = "0px";
-        menuMobile.style.top = "120px";
+        menuMobile.style.top = "50px";
         menu.style.transition = "top .3s";
         ulmanSailsImg.style.display  = "none";
     }
     if (window.scrollY < ( elementTarget.offsetHeight)) {
-        menu.style.top = "50px";
+        menu.style.top = "00px";
         menuMobile.style.top = "170px";
         menu.style.transition = "top .3s";
         ulmanSailsImg.style.display  = "block";
         ulmanSailsImg.style.left  = "130px";
-    }
-    });
+    }**/
+  });
 
     var openMenu = document.getElementById("openMenu");
     var closeMenu = document.getElementById("closeMenu");
