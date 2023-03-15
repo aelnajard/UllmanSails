@@ -281,13 +281,16 @@
   </div>
   <div id="mobileMenu" class="menuMobile">
     <div class="textMenuContainerMobile">
-      <h3>Home</h3>
     <!--  <h3>Sail Types</h3> -->
-      <h3>Sail Care</h3>
-      <h3>Services</h3>
-      <h3>About Us</h3>
-      <h3>News</h3>
-      <h3>Contact Us</h3>
+
+
+
+      <h3><a href="../Home/">Home</a></h3>
+      <h3><a href="../SailCare/">SailCare</a></h3>
+      <h3><a href="../Services/">Services</a></h3>
+      <h3><a href="../AboutUs/">About Us</a></h3>
+      <h3> <a href="../News/News.php">News</a></h3>
+      <h3><a href="../ContactUs/">Contact Us</a></h3>
     </div>
   </div>
 
