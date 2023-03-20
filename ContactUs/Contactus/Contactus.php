@@ -88,6 +88,13 @@
     background-color: rgba(210, 220, 234,1);
     padding: 4px 7px;
   }
+  .whiter{
+    background-color: rgba(233, 235, 244, 1);
+  }
+  .darker{
+    background-color: rgba(208, 213, 232, 1);
+  }
+
 </style>
 <section class="contactUs">
   <h1 class="contactUsTitle">Contact us</h1>
@@ -120,10 +127,10 @@
         </thead>
         <tbody>
           <tr>
-            <td>Telephone</td>
-            <td>01752 337 131</td>
-            <td>02380 457 711</td>
-            <td>02780 456 611</td>
+            <td class="whiter">Telephone</td>
+            <td class="whiter">01752 337 131</td>
+            <td class="whiter">02380 457 711</td>
+            <td class="whiter">02780 456 611</td>
 
           </tr>
           <tr>
@@ -139,10 +146,10 @@
 
           </tr>
           <tr>
-            <td>Email</td>
-            <td>sales@ullmansails.co.uk</td>
-            <td>sales@ullmansails.co.uk</td>
-            <td>catrina@ullmansails.co.uk</td>
+            <td class="whiter">Email</td>
+            <td class="whiter">sales@ullmansails.co.uk</td>
+            <td class="whiter">sales@ullmansails.co.uk</td>
+            <td class="whiter">catrina@ullmansails.co.uk</td>
 
           </tr>
           <tr>
@@ -153,10 +160,10 @@
 
           </tr>
           <tr>
-            <td>Head of Loft</td>
-            <td>Jon Pegg</td>
-            <td>Rob Larke</td>
-            <td>Catrina Southworth</td>
+            <td class="whiter">Head of Loft</td>
+            <td class="whiter">Jon Pegg</td>
+            <td class="whiter">Rob Larke</td>
+            <td class="whiter">Catrina Southworth</td>
 
           </tr>
           <tr>
@@ -164,28 +171,27 @@
             <td>08:00 - 17:00</td>
             <td>08:30 - 17:30</td>
             <td></td>
-
           </tr>
-
-
         </tbody>
       </table>
-
   </div>
-
 
 </section>
 
 <script type="text/javascript">
   var map = L.map('map').setView([50.859644, -2.320230], 7);
+
+
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
       maxZoom: 18,
+      attributionControl: false,
       id: 'mapbox/streets-v11',
       tileSize: 512,
       zoomOffset: -1,
       accessToken: 'your.mapbox.access.token'
   }).addTo(map);
+
+
 
   var marker = L.marker([50.76, -1.320230]).addTo(map);
   var marker = L.marker([50.3, -4.1]).addTo(map);

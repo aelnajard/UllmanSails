@@ -44,6 +44,7 @@
       padding: 20px;
       margin: 10px;
       background-color: #E1E1E1;
+
     }
 
     @media(max-width: 980px){

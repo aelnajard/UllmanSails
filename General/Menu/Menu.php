@@ -252,7 +252,7 @@
       <div class="contentMenu">
         <div class="textMenuContainer">
           <h3><a href="../Home/">Home</a></h3>
-          <h3 id="sailsTypes">Sail Types</h3>
+          <h3 id="sailsTypes"><a href="../SailTypes/">Sail Types</a></h3>
           <h3><a href="../SailCare/">SailCare</a></h3>
           <h3><a href="../Services/">Services</a></h3>
           <h3><a href="../AboutUs/">About Us</a></h3>
@@ -281,11 +281,11 @@
   </div>
   <div id="mobileMenu" class="menuMobile">
     <div class="textMenuContainerMobile">
-    <!--  <h3>Sail Types</h3> -->
 
 
 
       <h3><a href="../Home/">Home</a></h3>
+      <h3><a href="../SailTypes/">Sail Types</a></h3>
       <h3><a href="../SailCare/">SailCare</a></h3>
       <h3><a href="../Services/">Services</a></h3>
       <h3><a href="../AboutUs/">About Us</a></h3>

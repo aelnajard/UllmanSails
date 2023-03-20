@@ -43,6 +43,7 @@
       font-weight: bold;
       border: none;
       color: #F2F2F2;
+      cursor: pointer;
     }
     button:hover {
       background-color: #F2F2F2;
