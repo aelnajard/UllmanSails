@@ -91,7 +91,7 @@
     padding: 9px 10px;
     color: white;
     font-size: 1.2em;
-    font-weight: 200;
+    font-weight: 400;
     text-align: center;
     cursor: pointer;
   }
