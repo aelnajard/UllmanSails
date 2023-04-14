@@ -17,9 +17,11 @@
     position: relative;
     width: 30%;
     float: left;
-    height: 70px;
+    height: 56px;
+    top: 4px;
     margin-left: 30px;
     display: inline-block;
+    transition:.5s;
   }
   .logoMenu img:nth-child(1){
     position: relative;
@@ -86,23 +88,23 @@
   }
   .textMenuContainerMobile h3{
     background-color: rgba(255, 0, 0, .1);
-    padding: 19px 10px;
+    padding: 9px 10px;
     color: white;
-    font-size: 2em;
+    font-size: 1.2em;
     font-weight: 200;
     text-align: center;
     cursor: pointer;
   }
   .textMenuContainerMobile h3:nth-child(even){
-    background-color: rgba(255, 0, 0, .1);
+    background-color: rgba(255, 0, 0, .7);
 
   }
   .textMenuContainerMobile h3:nth-child(odd){
-    background-color: rgba(255, 0, 0, .2);
+    background-color: rgba(17,62,164,0.7);
 
   }
   .textMenuContainerMobile h3:hover{
-    background-color: rgba(255, 0, 0, .5);
+    opacity: 0.9;
     transition: .5s;
   }
   .subItemContainer{
@@ -328,15 +330,15 @@ window.addEventListener("scroll", function() {
       openMenu.style.display = "none";
       closeMenu.style.display = "block";
       mobileMenu.style.display = "block";
-      logoMenu.style.height = "130%";
-      logoMenu.style.transition = ".5s";
+      logoMenu.style.height = "100%";
+      logoMenu.style.top = "0px";
     })
     closeMenu.addEventListener("click",function(){
       openMenu.style.display = "block";
       closeMenu.style.display = "none";
       mobileMenu.style.display = "none";
-      logoMenu.style.height = "190%";
-      logoMenu.style.transition = ".5s";
+      logoMenu.style.height = "110px";
+      logoMenu.style.top = "6px";
      })
      closeMenu.style.display = "none";
      mobileMenu.style.display = "none";
