@@ -91,7 +91,7 @@
     padding: 9px 10px;
     color: white;
     font-size: 1.2em;
-    font-weight: 400;
+    font-weight: 300;
     text-align: center;
     cursor: pointer;
   }
@@ -331,7 +331,7 @@ window.addEventListener("scroll", function() {
       closeMenu.style.display = "block";
       mobileMenu.style.display = "block";
       logoMenu.style.height = "100%";
-      logoMenu.style.top = "0px";
+      logoMenu.style.top = "4px";
     })
     closeMenu.addEventListener("click",function(){
       openMenu.style.display = "block";
