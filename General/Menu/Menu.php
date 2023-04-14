@@ -10,7 +10,7 @@
     left: 0px;
     width: 120vw;
     height: 70px;
-    background-color: rgba(255, 0, 0, .5);
+    background-color: rgba(255, 0, 0, .7);
     z-index: 10;
   }
   .logoMenu{
